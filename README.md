@@ -1,3 +1,3 @@
-##Updated Readme
+#Updated Readme
 
 My first readme
